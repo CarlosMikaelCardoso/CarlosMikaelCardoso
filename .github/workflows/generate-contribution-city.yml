@@ -1,0 +1,41 @@
+name: Gerar Cidade de Contribuições
+
+on:
+  schedule:
+    - cron: "45 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-city-output-branch
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Gerar skyline
+        uses: Haruko386-UnOfficIal/github-city@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: github
+
+      - name: Preparar arquivo final
+        run: |
+          mkdir -p dist
+          mv city.svg dist/contribution-city.svg
+
+      - name: Publicar na branch output
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          keep_files: true
+          commit_message: "chore: atualizar cidade de contribuições"

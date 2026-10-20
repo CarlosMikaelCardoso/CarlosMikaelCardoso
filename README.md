@@ -58,8 +58,7 @@ Este perfil reúne projetos públicos com foco em blockchain, testes de desempen
 
 ## 🏙️ Cidade de contribuições (visual principal)
 
-> Bloco visual configurado para usar um arquivo de saída no próprio repositório.  
-> Se a imagem ainda não tiver sido gerada, o restante do README continua funcionando normalmente.
+> Para gerar a imagem pela primeira vez: vá em **Actions** → **Gerar Cidade de Contribuições** → **Run workflow**.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CarlosMikaelCardoso/CarlosMikaelCardoso/output/contribution-city.svg" alt="Visual em formato de cidade representando a atividade de contribuições no GitHub" />
@@ -67,10 +66,14 @@ Este perfil reúne projetos públicos com foco em blockchain, testes de desempen
 
 ## 🎮 Pac-Man de contribuições (opcional)
 
-> Se quiser simplificar o README no futuro, esta seção pode ser removida sem afetar as demais.
+> Para gerar as imagens pela primeira vez: vá em **Actions** → **Gerar Pac-Man de Contribuições** → **Run workflow**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CarlosMikaelCardoso/CarlosMikaelCardoso/output/pacman.svg" alt="Visual estilo Pac-Man percorrendo o histórico de contribuições no GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosMikaelCardoso/CarlosMikaelCardoso/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosMikaelCardoso/CarlosMikaelCardoso/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/CarlosMikaelCardoso/CarlosMikaelCardoso/output/pacman-contribution-graph.svg" alt="Animação estilo Pac-Man representando as contribuições no GitHub" />
+  </picture>
 </p>
 
 ## Onde me encontrar
