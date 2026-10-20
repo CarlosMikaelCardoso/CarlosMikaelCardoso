@@ -96,8 +96,6 @@ Estudante de Ciência da Computação na [FACI Wyden](https://www.wyden.com.br/)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=CarlosMikaelCardoso&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub de Carlos Mikael" />
-
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CarlosMikaelCardoso&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas por Carlos Mikael" />
 
 </div>
