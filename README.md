@@ -1,104 +1,77 @@
-# Olá, eu sou Carlos Mikael Cardoso 👋
+# Olá! Eu sou Carlos Mikael Cardoso 👋
 
-Sou desenvolvedor e estudante de tecnologia, interessado em criar soluções utilizando software, automação, blockchain e dispositivos inteligentes.
+Este perfil reúne projetos públicos com foco em blockchain, testes de desempenho, automação, tecnologia assistiva/IoT e desenvolvimento de software.
 
-Atualmente, exploro diferentes áreas do desenvolvimento de software por meio de projetos acadêmicos, experimentos e aplicações práticas.
+> Opcional (mantenha apenas se ainda estiver atualizado):
+> Estudante de Ciência da Computação na [FACI Wyden](https://www.wyden.com.br/).
 
-Estudante de Ciência da Computação na [FACI Wyden](https://www.wyden.com.br/).
+## Áreas de interesse
 
-## Sobre mim
+- 🔗 **Blockchain e Hyperledger Besu**
+- 🧪 **Testes de desempenho com JMeter e Hyperledger Caliper**
+- 🐧 **Automação com Linux e Shell Script**
+- 🤖 **Tecnologia assistiva e IoT**
+- 💻 **Desenvolvimento de software**
 
-- 🔗 Interesse em blockchain, redes privadas e Hyperledger Besu
-- 🧪 Experiência com testes de desempenho utilizando JMeter e Caliper
-- 🤖 Projetos envolvendo IoT, acessibilidade e automação
-- 📚 Repositórios de estudo em várias linguagens de programação
-- 🐧 Interesse em Linux, Shell Script e personalização de ambientes
-- 💻 Sempre aprendendo e experimentando novas tecnologias
-
-## Tecnologias e linguagens
+## Linguagens e tecnologias
 
 <div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" alt="Swift" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" alt="Solidity" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Shell Script" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Ícone da linguagem Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Ícone da linguagem Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="Ícone da linguagem C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="Ícone da linguagem C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="Ícone da linguagem JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="Ícone da linguagem TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Ícone da linguagem Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" alt="Ícone da linguagem Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" alt="Ícone da linguagem Solidity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Ícone de Shell Script" />
 </div>
-
-## Principais áreas de interesse
-
-- **Blockchain e Web3**
-  - Solidity
-  - Hyperledger Besu
-  - Redes blockchain privadas
-  - Smart contracts
-
-- **Desenvolvimento de software**
-  - Python, Java, C, C++, JavaScript e TypeScript
-  - Aplicações mobile com Kotlin e Swift
-  - APIs, sistemas e projetos acadêmicos
-
-- **Testes e desempenho**
-  - Apache JMeter
-  - Hyperledger Caliper
-  - Comparação de desempenho entre ferramentas
-
-- **Automação e sistemas**
-  - Linux
-  - Shell Script
-  - Sway Window Manager
-  - Automação de ambientes
-
-- **Tecnologia assistiva e IoT**
-  - Monitoramento de alertas residenciais
-  - Detecção de quedas
-  - Dispensadores automatizados de medicamentos
 
 ## Projetos em destaque
 
-### 🔗 Blockchain e Hyperledger
+### Blockchain e Hyperledger
 
-- [wyden_coins_contract](https://github.com/CarlosMikaelCardoso/wyden_coins_contract)  
-  Projeto relacionado a contratos e aplicações blockchain.
+- [wyden_coins_contract](https://github.com/CarlosMikaelCardoso/wyden_coins_contract)
+- [besu-quickstart](https://github.com/CarlosMikaelCardoso/besu-quickstart)
+- [besu-production-docker](https://github.com/CarlosMikaelCardoso/besu-production-docker)
+- [Solidity](https://github.com/CarlosMikaelCardoso/Solidity)
 
-- [besu-quickstart](https://github.com/CarlosMikaelCardoso/besu-quickstart)  
-  Guia inicial para experimentar recursos do Hyperledger Besu.
+### Testes de desempenho
 
-- [besu-production-docker](https://github.com/CarlosMikaelCardoso/besu-production-docker)  
-  Configuração do Hyperledger Besu para redes privadas.
+- [Jmeter_VS_Caliper](https://github.com/CarlosMikaelCardoso/Jmeter_VS_Caliper)
+- [caliper-jmeter](https://github.com/CarlosMikaelCardoso/caliper-jmeter)
 
-- [Solidity](https://github.com/CarlosMikaelCardoso/Solidity)  
-  Estudos e experimentos utilizando Solidity.
-
-### 🧪 Testes de desempenho
-
-- [Jmeter_VS_Caliper](https://github.com/CarlosMikaelCardoso/Jmeter_VS_Caliper)  
-  Comparação entre JMeter e Hyperledger Caliper.
-
-### 🤖 Tecnologia assistiva e dispositivos inteligentes
+### Tecnologia assistiva e IoT
 
 - [Monitor de Alertas Residenciais para Deficientes Auditivos](https://github.com/CarlosMikaelCardoso/Monitor-de-Alertas-Residenciais-para-Deficientes-Auditivos)
-
 - [Smart Badge - Detector de Quedas](https://github.com/CarlosMikaelCardoso/-Smart-Badge-Detector-de-Quedas)
-
-- [Pilot Dispensador de Remédios](https://github.com/CarlosMikaelCardoso/pilot_dispensador_de_remedios)
-
+- [pilot_dispensador_de_remedios](https://github.com/CarlosMikaelCardoso/pilot_dispensador_de_remedios)
 - [PostureFit](https://github.com/CarlosMikaelCardoso/PostureFit)
 
 ## Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=CarlosMikaelCardoso&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" alt="Resumo de estatísticas do GitHub de Carlos Mikael Cardoso" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CarlosMikaelCardoso&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas nos repositórios públicos de Carlos Mikael Cardoso" />
+</p>
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CarlosMikaelCardoso&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas por Carlos Mikael" />
+## 🏙️ Cidade de contribuições (visual principal)
 
-</div>
+> Bloco visual configurado para usar um arquivo de saída no próprio repositório.  
+> Se a imagem ainda não tiver sido gerada, o restante do README continua funcionando normalmente.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarlosMikaelCardoso/CarlosMikaelCardoso/output/contribution-city.svg" alt="Visual em formato de cidade representando a atividade de contribuições no GitHub" />
+</p>
+
+## 🎮 Pac-Man de contribuições (opcional)
+
+> Se quiser simplificar o README no futuro, esta seção pode ser removida sem afetar as demais.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarlosMikaelCardoso/CarlosMikaelCardoso/output/pacman.svg" alt="Visual estilo Pac-Man percorrendo o histórico de contribuições no GitHub" />
+</p>
 
 ## Onde me encontrar
 
