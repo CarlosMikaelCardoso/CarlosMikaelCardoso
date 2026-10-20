@@ -82,9 +82,6 @@ Estudante de Ciência da Computação na [FACI Wyden](https://www.wyden.com.br/)
 - [Jmeter_VS_Caliper](https://github.com/CarlosMikaelCardoso/Jmeter_VS_Caliper)  
   Comparação entre JMeter e Hyperledger Caliper.
 
-- [caliper-jmeter](https://github.com/CarlosMikaelCardoso/caliper-jmeter)  
-  Experimentos envolvendo ferramentas de testes e benchmarking.
-
 ### 🤖 Tecnologia assistiva e dispositivos inteligentes
 
 - [Monitor de Alertas Residenciais para Deficientes Auditivos](https://github.com/CarlosMikaelCardoso/Monitor-de-Alertas-Residenciais-para-Deficientes-Auditivos)
