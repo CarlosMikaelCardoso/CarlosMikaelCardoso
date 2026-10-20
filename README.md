@@ -4,9 +4,7 @@ Sou desenvolvedor e estudante de tecnologia, interessado em criar soluções uti
 
 Atualmente, exploro diferentes áreas do desenvolvimento de software por meio de projetos acadêmicos, experimentos e aplicações práticas.
 
-> Se ainda for válido, você pode acrescentar:
->
-> Estudante de Ciência da Computação na [FACI Wyden](https://www.wyden.com.br/).
+Estudante de Ciência da Computação na [FACI Wyden](https://www.wyden.com.br/).
 
 ## Sobre mim
 
