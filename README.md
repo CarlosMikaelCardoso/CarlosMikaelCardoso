@@ -1,9 +1,6 @@
-# Olá! Eu sou Carlos Mikael Cardoso 👋
+# Olá! Eu sou Carlos Mikael Cardoso
 
-Este perfil reúne projetos públicos com foco em blockchain, testes de desempenho, automação, tecnologia assistiva/IoT e desenvolvimento de software.
-
-> Opcional (mantenha apenas se ainda estiver atualizado):
-> Estudante de Ciência da Computação na [FACI Wyden](https://www.wyden.com.br/).
+Estudante de Ciência da Computação na [FACI Wyden](https://www.wyden.com.br/).
 
 ## Áreas de interesse
 
