@@ -56,17 +56,8 @@ Este perfil reúne projetos públicos com foco em blockchain, testes de desempen
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CarlosMikaelCardoso&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas nos repositórios públicos de Carlos Mikael Cardoso" />
 </p>
 
-## 🏙️ Cidade de contribuições (visual principal)
-
-> Para gerar a imagem pela primeira vez: vá em **Actions** → **Gerar Cidade de Contribuições** → **Run workflow**.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CarlosMikaelCardoso/CarlosMikaelCardoso/output/contribution-city.svg" alt="Visual em formato de cidade representando a atividade de contribuições no GitHub" />
-</p>
-
 ## 🎮 Pac-Man de contribuições (opcional)
 
-> Para gerar as imagens pela primeira vez: vá em **Actions** → **Gerar Pac-Man de Contribuições** → **Run workflow**.
 
 <p align="center">
   <picture>
@@ -76,6 +67,15 @@ Este perfil reúne projetos públicos com foco em blockchain, testes de desempen
   </picture>
 </p>
 
+
+## 🏙️ Cidade de contribuições (visual principal)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarlosMikaelCardoso/CarlosMikaelCardoso/output/contribution-city.svg" alt="Visual em formato de cidade representando a atividade de contribuições no GitHub" />
+</p>
+
 ## Onde me encontrar
 
 - [GitHub](https://github.com/CarlosMikaelCardoso)
+- [Linkedin](https://www.linkedin.com/in/carlos-mikael-cardoso)
+ 
