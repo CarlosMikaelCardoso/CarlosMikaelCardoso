@@ -46,14 +46,8 @@ Estudante de Ciência da Computação na [FACI Wyden](https://www.wyden.com.br/)
 - [pilot_dispensador_de_remedios](https://github.com/CarlosMikaelCardoso/pilot_dispensador_de_remedios)
 - [PostureFit](https://github.com/CarlosMikaelCardoso/PostureFit)
 
-## Estatísticas do GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=CarlosMikaelCardoso&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" alt="Resumo de estatísticas do GitHub de Carlos Mikael Cardoso" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CarlosMikaelCardoso&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas nos repositórios públicos de Carlos Mikael Cardoso" />
-</p>
-
-## 🎮 Pac-Man de contribuições (opcional)
+## 🎮 Pac-Man de contribuições 
 
 
 <p align="center">
@@ -65,7 +59,7 @@ Estudante de Ciência da Computação na [FACI Wyden](https://www.wyden.com.br/)
 </p>
 
 
-## 🏙️ Cidade de contribuições (visual principal)
+## 🏙️ Cidade de contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CarlosMikaelCardoso/CarlosMikaelCardoso/output/contribution-city.svg" alt="Visual em formato de cidade representando a atividade de contribuições no GitHub" />
